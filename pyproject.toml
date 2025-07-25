@@ -2,7 +2,7 @@
 name = "src"
 version = "0.0.1"
 description = "An MLOps project for productionizing models"
-authors = [{name = "Pradip Rathod", email = "peadiprathod45@gmail.com"}]
+authors = [{name = "Pradip Rathod", email = "pradiprathod45@gmail.com"}]
 
 [tool.setuptools]
 packages = {find = {}}
